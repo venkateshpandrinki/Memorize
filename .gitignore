@@ -212,3 +212,5 @@ backend/index_storage
 backend/podcasts
 backend/spaces
 
+/genai
+/testing
